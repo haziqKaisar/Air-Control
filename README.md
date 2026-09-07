@@ -9,3 +9,7 @@ Mensinkronisasikan file readme.md dari github ke folder lokal
 # Cursor mode
 
 masih ngelag, patah-patah, scroll belum berjalan dengan baik
+
+# New Update
+
+Menambah fitur air snap, juga menyesuaikan pinch untuk ganti mode
