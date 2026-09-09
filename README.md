@@ -13,3 +13,7 @@ masih ngelag, patah-patah, scroll belum berjalan dengan baik
 # New Update
 
 Menambah fitur air snap, juga menyesuaikan pinch untuk ganti mode
+
+# Self project
+
+Belajar python untuk mengembangkan Air Control
