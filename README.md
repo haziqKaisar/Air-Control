@@ -16,4 +16,4 @@ Menambah fitur air snap, juga menyesuaikan pinch untuk ganti mode
 
 # Self project
 
-Belajar python untuk mengembangkan Air Control
+Belajar python untuk mengembangkan Air Control, dan mengisi waktu malam
